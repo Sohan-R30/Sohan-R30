@@ -1,9 +1,8 @@
+<p  height="50vh" width="100%" align="left"> <img src="/coding-4-1.jpg" alt="sohan-r30" /> </p>
 <h1 align="center">Hi 👋, I'm Md. Zahidul Islam Shohan</h1>
 <h3 align="center">Mern Stack Developer</h3>
 
-<p align="left"> <img src="/coding-4-1.jpg" alt="sohan-r30" /> </p>
-
-<p height="30vh" width="100%" align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sohan-r30" alt="sohan-r30" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sohan-r30" alt="sohan-r30" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
