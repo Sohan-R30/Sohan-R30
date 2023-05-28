@@ -9,6 +9,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sohan-R30&theme=prussian&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sohan-R30&theme=prussian&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+[![](https://visitcount.itsvg.in/api?id=sohan-R30&icon=0&color=1)](https://visitcount.itsvg.in)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sohan-R30&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
@@ -16,6 +18,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sohan-R30&icon=0&color=1)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
