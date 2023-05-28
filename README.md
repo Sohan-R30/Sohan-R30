@@ -1,7 +1,6 @@
 <img src="/coding-4-1.jpg"/>
-## <p align="center" >Hi there 😊, Hi, I'm Md. Zahidul Islam Shohan</p>
-### <p align="center" >I'm a Mern Stack Developer</p>
-![I'm a Mern Stack Developer]
+<h1 align="center" >Hi there 😊, Hi, I'm Md. Zahidul Islam Shohan</h1>
+<p align="center" >I'm a Mern Stack Developer</p>
 
 
 ## 🌐 Socials:
