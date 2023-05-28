@@ -1,5 +1,5 @@
 <img src="/coding.png"/>
-<h1 align="center" >Hi there 😊, Hi, I'm Md. Zahidul Islam Shohan</h1>
+<h1 align="center" >Hi there 😊, I'm Md. Zahidul Islam Shohan</h1>
 <h3 align="center" >I'm a Mern Stack Developer</h3>
 
 
