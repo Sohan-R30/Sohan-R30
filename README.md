@@ -13,6 +13,4 @@ Skills: HTML / CSS / BOOTSTRAP / TAILWIND CSS / JS / REACT / FIREBASE / EXPRESS 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sohan-R30&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sohan-R30)  
-
 ![Profile views](https://gpvc.arturio.dev/sohan-R30)  
