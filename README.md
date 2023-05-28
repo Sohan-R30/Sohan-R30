@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md. Zahidul Islam Shohan</h1>
 <h3 align="center">Mern Stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sohan-r30&label=Profile%20views&color=0e75b6&style=flat" alt="sohan-r30" /> </p>
+<p align="left"> <img src="/coding-4-1.jpg" alt="sohan-r30" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sohan-r30" alt="sohan-r30" /></a> </p>
 
