@@ -1,11 +1,8 @@
 <img src="/coding.png"/>
 <h1 align="center" >Hi there 😊, I'm Md. Zahidul Islam Shohan</h1>
 <h3 align="center" >I'm a Android apps Developer</h3>
-<p align="center">I am a passionate and dedicated Native Android App Developer with a strong focus on Java and advanced concepts such as Architecture Components (MVVM, Room, LiveData), building efficient, user-friendly mobile applications. As a fresher in the Android development field, I am eager to apply my technical knowledge and problem-solving skills to real-world projects.
-
-In addition to mobile development, I have experience in web development, working with the MERN stack (MongoDB, Express.js, React, Node.js), and Next.js to create dynamic, responsive web applications. I am constantly learning and exploring new technologies to enhance my development skills and deliver high-quality software solutions.
-
-I am enthusiastic about contributing to innovative projects and growing my career in the software development industry</p>
+<p align="center">I am a passionate and dedicated Native Android App Developer with a strong focus on Java and advanced concepts such as Architecture Components (MVVM, Room, LiveData), building efficient, user-friendly mobile applications. As a fresher in the Android development field, I am eager to apply my technical knowledge and problem-solving skills to real-world projects.In addition to mobile development, I have experience in web development, working with the MERN stack (MongoDB, Express.js, React, Node.js), and Next.js to create dynamic, responsive web applications. I am constantly learning and exploring new technologies to enhance my development skills and deliver high-quality software solutions.I am enthusiastic about contributing to innovative projects and growing my career in the software development industry
+</p>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/sohanakondo.03) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_sohan_3860/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-zahidul-islam-shohan-013564278) 
