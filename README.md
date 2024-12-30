@@ -3,7 +3,7 @@ I am a passionate and dedicated Native Android App Developer who strongly focuse
 
 
 ## 🌐 Socials:
-[Portfolio]](https://zis-softworks.vercel.app/) 
+[Portfolio](https://img.shields.io/badge/Portfolio-%231877F.svg?logo=Porfolio&logoColor=white)](https://zis-softworks.vercel.app/) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sohanakondo.03) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_sohan_3860) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-zahidul-islam-shohan) 
 
 # 💻 Tech Stack:
