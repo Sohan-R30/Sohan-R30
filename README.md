@@ -1,5 +1,18 @@
 # 💫 About Me:
-I am a passionate and dedicated Native Android App Developer who strongly focuses on Java and advanced concepts such as Architecture Components (MVVM, Room, LiveData), and building efficient, user-friendly mobile applications. As a fresher in Android development, I am eager to apply my technical knowledge and problem-solving skills to real-world projects.<br><br>In addition to mobile development, I have experience in web development, working with the MERN stack (MongoDB, Express.js, React, Node.js), and Next.js to create dynamic, responsive web applications. I constantly learn and explore new technologies to enhance my development skills and deliver high-quality software solutions.<br><br>I am enthusiastic about contributing to innovative projects and growing my career in the software development industry
+Native Android & Cross-platform App Developer
+
+I'm an efficient Native Android Developer who majors in Java and Kotlin, along with experience in developing high-performance feature-rich Android applications. I can work with Flutter for cross-platform apps with seamless user experiences across Android and iOS.
+
+With a strong foundation in clean architecture, modern tools, and best practices, I am passionate about delivering apps that are user-focused, visually appealing, and technically robust. My goal is to combine creativity and technical expertise to develop solutions that drive results.
+
+Key Skills:
+
+Android Development (Java/Kotlin)
+Cross-Platform Development (Flutter)
+MVVM Architecture, Room Database, Material Design
+Firebase, RESTful APIs, Git Version Control
+
+Let's connect and create something amazing together!
 
 
 ## 🌐 Socials:
